@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dio.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="diotalk0000" x="0" y="0" width="264" height="203" frameX="0" frameY="-43" frameWidth="270" frameHeight="275"/>
+	<SubTexture name="diotalk0001" x="0" y="0" width="264" height="203" frameX="0" frameY="-43" frameWidth="270" frameHeight="275"/>
+	<SubTexture name="diotalk0002" x="264" y="0" width="263" height="201" frameX="-4" frameY="-43" frameWidth="270" frameHeight="275"/>
+	<SubTexture name="diotalk0003" x="527" y="0" width="260" height="205" frameX="-7" frameY="-38" frameWidth="270" frameHeight="275"/>
+	<SubTexture name="diotalk0004" x="787" y="0" width="225" height="263" frameX="-12" frameY="0" frameWidth="270" frameHeight="275"/>
+	<SubTexture name="diotalk0005" x="0" y="263" width="220" height="263" frameX="-29" frameY="-12" frameWidth="270" frameHeight="275"/>
+	<SubTexture name="diotalk0006" x="220" y="263" width="264" height="223" frameX="-6" frameY="-13" frameWidth="270" frameHeight="275"/>
+	<SubTexture name="diotalk0007" x="220" y="263" width="264" height="223" frameX="-6" frameY="-13" frameWidth="270" frameHeight="275"/>
+	<SubTexture name="diotalk0008" x="220" y="263" width="264" height="223" frameX="-6" frameY="-13" frameWidth="270" frameHeight="275"/>
+</TextureAtlas>

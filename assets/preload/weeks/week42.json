@@ -1,0 +1,48 @@
+{
+	"storyName": "W3khdrfjfh4fbrjf 4j hd4u hf4uhf4 ufhd4rfgbhdrhnfnrmshg rui hfrsh rghr",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Trouble",
+			"dio",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Double",
+			"dio",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Chaos",
+			"dio",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "WeekD"
+}

@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "dio",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hello sussy boy"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i can not understannd you\\\\nroachy"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "im tired of talking like a squirell\\ni want to rap battle you idiot"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dio",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "poop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i dont care......."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tiky",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "COOOOOOOKIE!!!!!!!!!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dio",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok lets do this sussy nuts"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+		}
+	]
+}
